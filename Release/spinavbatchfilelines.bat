@@ -1,0 +1,6 @@
+start spinavbatchfilelines.exe 30.0 "random" "guitar"
+rem start spinavbatchfilelines.exe 30.0 "random" "kick"
+rem start spinavbatchfilelines.exe 30.0 "random" "drum"
+rem start spinavbatchfilelines.exe 30.0 "random" "kit"
+rem start spinavbatchfilelines.exe 30.0 "random" "synth"
+rem start spinavbatchfilelines.exe 30.0 "random" "bass"
